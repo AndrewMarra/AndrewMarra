@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @AndrewMarra
-- 👀 I’m interested in building upon and furthering my education, career, and skills. I enjoy collaborating with people from all walks of life, and I hope to help develop software to change the world for the better.
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, React, C# for full stack development.
-- 💞️ I’m looking to collaborate on web and app development
-- 📫 How to reach me: You can email me at marraand@outlook.com
+## Hi, I'm Andrew 👋
 
-<!---
-AndrewMarra/AndrewMarra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack software engineer who enjoys building things end-to-end — from responsive UIs to backend APIs to the data layers that tie them together. I care about writing clean, maintainable code and shipping software that actually works for the people using it.
+
+---
+
+### 🛠 Tech I work with
+
+**Frontend:** React · TypeScript · JavaScript (ES6+) · HTML · CSS  
+**Backend:** Node.js · PHP · C# · Python  
+**Data & APIs:** MySQL · MongoDB · GraphQL · REST APIs  
+**DevOps & Cloud:** Docker · Kubernetes · GCP · CI/CD · Git  
+
+---
+
+### 🌱 Currently learning
+
+Unity · C++ · game development fundamentals
+
+---
+
+### 🤖 Interested in
+
+Applied AI and LLM-powered applications — particularly the data infrastructure side: building the retrieval layers, APIs, and pipelines that make AI features actually work in production.
+
+---
+
+### 📬 Reach me
+
+📧 marraand@outlook.com  
+💼 [linkedin.com/in/andrew-marra](https://linkedin.com/in/andrew-marra)
